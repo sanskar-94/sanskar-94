@@ -1,60 +1,64 @@
-# 👋 Hey, I'm Sanskar Awasthi
+# Sanskar Awasthi
 
-🎯 Automation Engineer | AI Integrator | n8n Expert  
-Helping businesses automate smarter with AI + n8n workflows
+Automation Engineer | AI Integrator | n8n Expert  
+Helping businesses streamline operations using intelligent automation and large language models.
 
 ---
 
-## 🔧 Tools & Technologies I Work With
+## Tools and Technologies
 
-### ⚙️ Automation & Workflow Tools
-- **n8n (Self-Hosted & Cloud)**
+### Automation & Workflow Orchestration
+- n8n (Self-hosted and Cloud)
 - Make.com, Zapier, Pabbly
-- Webhooks, APIs, Triggers, Cron Jobs
+- Webhooks, API integrations, Cron jobs
 
-### 🤖 AI & LLMs
-- OpenAI (GPT-4 / GPT-3.5)
-- Gemini 1.5 (Google)
+### AI and Language Models
+- OpenAI (GPT-4, GPT-3.5)
+- Google Gemini 1.5
 - Claude AI
-- **Lovable AI** (Voice + Text)
+- Lovable AI (Voice and text automation)
 
-### 📡 Communication & Community
-- Slack (Bot Integration)
-- Discord Bots
-- Gmail API, Outlook
-- Reddit (Scraping, Posting)
+### Communication and Community Platforms
+- Slack (bot-based automation)
+- Gmail API, Outlook integration
+- Reddit automation (data collection, posting)
+- Discord bots
 
-### 💾 Data & Databases
+### Databases and Data Management
 - Airtable
 - Google Sheets
-- Pinecone (Vector DB)
+- Pinecone (Vector database)
+- Supabase
 - Notion API
-- Supabase, Firebase
 
-### 🧠 AI/ML & Media Tools
-- Midjourney (Image Generation)
+### AI-Enhanced Media and Processing
+- Midjourney (image generation)
 - DALL·E, Stable Diffusion
-- Whisper (Voice-to-Text)
+- Whisper (speech-to-text)
 
-### 🧑‍💻 Languages & Dev Stack
-- JavaScript 
-- Python (APIs, Scripts)
-- HTML / CSS / Markdown
-- JSON / XML 
-
----
-
-## 📌 Projects
-
-### 🔹 [Feedback Segregation System](https://github.com/sanskar-94/n8n-feedback-segregation)
-> Classifies user feedback using **Google Gemini AI** and routes it based on type:
-- Stores in separate Airtable tables (complaint, compliment, feature request)
-- Notifies Slack with user name, email, and message
-- Auto-replies to complaints via Gmail API  
-🔄 Triggered from n8n Forms (or Google Forms, Webhook, Microsoft Forms, etc.)
+### Programming and Scripting
+- JavaScript, TypeScript
+- Python
+- HTML, CSS
+- JSON, XML, YAML
 
 ---
 
-## 📫 Reach Me
-- 📧 Email: **sanskarawasthi93@gmail.com**
-- 💼 Upwork: https://www.upwork.com/freelancers/~015a6baf82356aebbe?mp_source=share
+## Featured Project
+
+### [Feedback Segregation System](https://github.com/sanskar-94/n8n-feedback-segregation)
+A complete automation system built using n8n and Google Gemini for routing customer feedback.
+
+Key features:
+- Classifies feedback into complaints, compliments, and feature requests
+- Stores each category in separate Airtable tables
+- Sends categorized updates to Slack with user name, email, and message
+- Automatically responds to complaints via the Gmail API
+- Supports multiple form integrations: n8n Forms, Google Forms, Microsoft Forms, and others
+
+---
+
+## Contact
+
+- Email: sanskarawasthi93@gmail.com  
+- Upwork: https://www.upwork.com/freelancers/~015a6baf82356aebbe?mp_source=share
