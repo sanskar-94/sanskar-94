@@ -166,4 +166,4 @@ www.linkedin.com/in/sanskarawasthi
 
 🌐 **GitHub**
 
-github.com/sanskar-94
+https://github.com/sanskar-94
