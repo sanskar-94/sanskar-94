@@ -162,7 +162,7 @@ sanskarawasthi93@gmail.com
 
 💼 **LinkedIn**
 
-linkedin.com/in/sanskar-awasthi
+www.linkedin.com/in/sanskarawasthi
 
 🌐 **GitHub**
 
