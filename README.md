@@ -1,64 +1,169 @@
-# Sanskar Awasthi
+<h1 align="center">Hi, I'm Sanskar Awasthi 👋</h1>
 
-Automation Engineer | AI Integrator | n8n Expert  
-Helping businesses streamline operations using intelligent automation and large language models.
+<h3 align="center">
+AI Engineer • Machine Learning Enthusiast • Building Intelligent Systems
+</h3>
+
+<p align="center">
+I enjoy understanding how modern AI systems work under the hood—from training neural networks to building autonomous AI agents.
+</p>
 
 ---
 
-## Tools and Technologies
+## About Me
 
-### Automation & Workflow Orchestration
-- n8n (Self-hosted and Cloud)
-- Make.com, Zapier, Pabbly
-- Webhooks, API integrations, Cron jobs
+I'm an AI engineer focused on building intelligent software using Python, Machine Learning and Large Language Models.
 
-### AI and Language Models
-- OpenAI (GPT-4, GPT-3.5)
-- Google Gemini 1.5
-- Claude AI
-- Lovable AI (Voice and text automation)
+My interests lie in understanding AI from first principles rather than treating models as black boxes. Alongside building practical AI applications, I'm actively studying machine learning, deep learning, algorithms, and systems that power modern AI.
 
-### Communication and Community Platforms
-- Slack (bot-based automation)
-- Gmail API, Outlook integration
-- Reddit automation (data collection, posting)
-- Discord bots
+Currently exploring:
 
-### Databases and Data Management
-- Airtable
-- Google Sheets
-- Pinecone (Vector database)
-- Supabase
-- Notion API
+- 🧠 Machine Learning
+- 🤖 Large Language Models
+- ⚡ AI Agents
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🏗️ Deep Learning
+- 🐍 Python
+- 📈 Data Structures & Algorithms
+- ☁️ Scalable AI Deployment
 
-### AI-Enhanced Media and Processing
-- Midjourney (image generation)
-- DALL·E, Stable Diffusion
-- Whisper (speech-to-text)
+---
 
-### Programming and Scripting
-- JavaScript, TypeScript
+## Tech Stack
+
+### Languages
+
 - Python
-- HTML, CSS
-- JSON, XML, YAML
+- C++
+- JavaScript
+- SQL
+
+### AI & Machine Learning
+
+- PyTorch
+- NumPy
+- OpenAI API
+- Google Gemini
+- Claude
+- Transformers
+- Embeddings
+- RAG Pipelines
+
+### AI Engineering
+
+- Agentic AI
+- Multi-Agent Systems
+- Prompt Engineering
+- Vector Databases
+- Model Evaluation
+- AI Workflow Design
+
+### Backend
+
+- FastAPI
+- REST APIs
+- Git
+- Linux
+
+### Databases
+
+- PostgreSQL
+- Supabase
+- Pinecone
+
+### Cloud
+
+- Google Cloud Platform
+- Docker
+- Vercel
 
 ---
 
-## Featured Project
+# Featured Projects
 
-### [Feedback Segregation System](https://github.com/sanskar-94/n8n-feedback-segregation)
-A complete automation system built using n8n and Google Gemini for routing customer feedback.
+## 🧠 TinyLM
 
-Key features:
-- Classifies feedback into complaints, compliments, and feature requests
-- Stores each category in separate Airtable tables
-- Sends categorized updates to Slack with user name, email, and message
-- Automatically responds to complaints via the Gmail API
-- Supports multiple form integrations: n8n Forms, Google Forms, Microsoft Forms, and others
+A language model implemented from scratch for learning transformer architecture.
+
+Highlights:
+
+- Character-level language model
+- 10.7M parameter Transformer
+- Pure PyTorch implementation
+- Training pipeline
+- Manual implementation of transformer components
 
 ---
 
-## Contact
+## 🤖 Omnichannel AI Support System
 
-- Email: sanskarawasthi93@gmail.com  
-- Upwork: https://www.upwork.com/freelancers/~015a6baf82356aebbe?mp_source=share
+A production-ready AI assistant supporting:
+
+- RAG Knowledge Base
+- Customer Memory
+- Multi-channel conversations
+- AI-powered workflows
+- Intelligent routing
+
+---
+
+## 📦 StockPilot
+
+Autonomous inventory intelligence system.
+
+Features:
+
+- Inventory forecasting
+- Replenishment planning
+- AI-powered decision support
+- Workflow automation
+- Interactive dashboard
+
+---
+
+## 🚀 Current Focus
+
+At the moment I'm spending most of my time on:
+
+- Studying Machine Learning
+- Implementing research papers
+- Training language models
+- Building AI agents
+- Solving Data Structures & Algorithms
+- Exploring efficient inference and model optimisation
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanskar-94&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-94&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Philosophy
+
+> "The best way to understand intelligence is to build it."
+
+I enjoy building systems that combine machine learning, software engineering and distributed systems to solve real-world problems.
+
+---
+
+## Connect
+
+📧 **Email**
+
+sanskarawasthi93@gmail.com
+
+💼 **LinkedIn**
+
+linkedin.com/in/sanskar-awasthi
+
+🌐 **GitHub**
+
+github.com/sanskar-94
